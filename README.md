@@ -1,3 +1,14 @@
+# Welcome To My Electricity Consumption Diagrams
+
+This repository contains 4 PNG plots, and 4 R scripts that generated them.  To run the R scripts, **the directory
+structure is:**
+* whereever you are
+* R scripts in ExData_Plotting1 folder
+* Raw data in exdata-data-household_power_consumption folder (the unzipped structure as is)
+
+Original homework instruction below.
+<p>
+
 ## Introduction
 
 This assignment uses data from
