@@ -2,9 +2,9 @@
 
 This repository contains 4 PNG plots, and 4 R scripts that generated them.  To run the R scripts, **the directory
 structure is:**
-* whereever you are
-* R scripts in ExData_Plotting1 folder
-* Raw data in exdata-data-household_power_consumption folder (the unzipped structure as is)
+* wherever you are
+* R scripts in ExData_Plotting1 folder under wherever you are
+* Raw data in exdata-data-household_power_consumption folder (the unzipped structure as is) under wherever you are
 
 Original homework instruction below.
 <p>
